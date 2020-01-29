@@ -8,7 +8,7 @@ end
 def distance3d(from, to)
 	from2d = [from[0], from[2]]
 	to2d = [to[0], to[2]]
-	diff_x = distance3d(from2d, to2d)
+	diff_x = distance2d(from2d, to2d)
 	diff_y = (from[1] - to[1]).abs
 	delta = Math.sqrt((diff_x ** 2) + (diff_y ** 2))
 	return delta
