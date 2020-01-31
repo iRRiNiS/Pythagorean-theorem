@@ -14,6 +14,7 @@ If you're adding a language yourself, make sure that:
 |----------|----------|----------|
 | C++ | [distancecalc.h](distancecalc.h) [distancecalc.cpp](distancecalc.cpp) | <couldn't find> |
 | Crystal | [distanceCalc.cr](distanceCalc.cr) | https://crystal-lang.org/ |
+| Haxe | [DistanceCalc.hx](DistanceCalc.hx) | https://haxe.org |
 | Java | [DistanceCalc.java](DistanceCalc.java) | https://java.com/ |
 | JavaScript | [distanceCalc.js](distanceCalc.js) | <couldn't find> |
 | Lua | [discord_calc.lua](distance_calc.lua) | https://lua.org/ |
