@@ -14,10 +14,6 @@ function distance3d(from, to)
     return delta
 end
 
-function main()
-    a = {1.0, 2.0, 3.0}
-    b = {4.0, 5.0, 6.0}
-    print(distance3d(a, b))
-end
-
-main()
+a = {1.0, 2.0, 3.0}
+b = {4.0, 5.0, 6.0}
+print(distance3d(a, b))
