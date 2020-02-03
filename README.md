@@ -12,13 +12,13 @@ If you're adding a language yourself, make sure that:
 
 | *Language* | *Filename* | *Homepage* |
 |----------|----------|----------|
-| C++ | [distancecalc.h](distancecalc.h) [distancecalc.cpp](distancecalc.cpp) | <couldn't find> |
-| Crystal | [distanceCalc.cr](distanceCalc.cr) | https://crystal-lang.org/ |
-| Haxe | [DistanceCalc.hx](DistanceCalc.hx) | https://haxe.org/ |
-| Java | [DistanceCalc.java](DistanceCalc.java) | https://java.com/ |
-| JavaScript | [distanceCalc.js](distanceCalc.js) | <couldn't find> |
-| Lua | [discord_calc.lua](distance_calc.lua) | https://lua.org/ |
-| PHP | [distancecalc.php](distancecalc.php) | https://php.net/ |
-| Python | [distance_calc.py](distance_calc.py) | https://python.org/ |
-| Ruby | [distance_calc.rb](distance_calc.rb) | https://ruby-lang.org/ |
-| Rust | [distance_calc.rs](distance_calc.rs) | https://rust-lang.org/ |
+| C++ | `distancecalc.h` `distancecalc.cpp` | <couldn't find> |
+| Crystal | `distanceCalc.cr` | https://crystal-lang.org/ |
+| Haxe | `DistanceCalc.hx` | https://haxe.org/ |
+| Java | `DistanceCalc.java` | https://java.com/ |
+| JavaScript | `distanceCalc.js` | <couldn't find> |
+| Lua | `discord_calc.lua` | https://lua.org/ |
+| PHP | `distancecalc.php` | https://php.net/ |
+| Python | `distance_calc.py` | https://python.org/ |
+| Ruby | `distance_calc.rb` | https://ruby-lang.org/ |
+| Rust | `distance_calc.rs` | https://rust-lang.org/ |
