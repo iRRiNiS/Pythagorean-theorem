@@ -18,6 +18,7 @@ If you're adding a language yourself, make sure that:
 | Haxe | `DistanceCalc.hx` | https://haxe.org/ |
 | Java | `DistanceCalc.java` | https://java.com/ |
 | JavaScript | `distanceCalc.js` | <couldn't find> |
+| Lily | `distance_calc.lily` | https://lily-lang.org/ |
 | Lua | `discord_calc.lua` | https://lua.org/ |
 | PHP | `distancecalc.php` | https://php.net/ |
 | Python | `distance_calc.py` | https://python.org/ |
