@@ -10,18 +10,20 @@ If you're adding a language yourself, make sure that:
 
 ## Languages
 
-| *Language* | *Filename* | *Homepage* |
+| *Language* | *Filename* | *Homepage (if any)* |
 |----------|----------|----------|
-| C | `distancecalc.h` `distancecalc.c` | <coudldn't find> |
-| C++ | `distancecalc.h` `distancecalc.cpp` | <couldn't find> |
+| C | `distancecalc.h` `distancecalc.c` | - |
+| C++ | `distancecalc.h` `distancecalc.cpp` | - |
 | Crystal | `distanceCalc.cr` | https://crystal-lang.org/ |
 | Gravity | `distancecalc.gravity` | https://gravity-lang.org/ |
 | Haxe | `DistanceCalc.hx` | https://haxe.org/ |
 | Java | `DistanceCalc.java` | https://java.com/ |
-| JavaScript | `distanceCalc.js` | <couldn't find> |
+| JavaScript | `distanceCalc.js` | - |
 | Lily | `distance_calc.lily` | https://lily-lang.org/ |
 | Lua | `discord_calc.lua` | https://lua.org/ |
 | PHP | `distancecalc.php` | https://php.net/ |
 | Python | `distance_calc.py` | https://python.org/ |
 | Ruby | `distance_calc.rb` | https://ruby-lang.org/ |
 | Rust | `distance_calc.rs` | https://rust-lang.org/ |
+
+*Language count: 13*
