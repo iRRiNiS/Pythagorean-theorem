@@ -12,6 +12,7 @@ If you're adding a language yourself, make sure that:
 
 | *Language* | *Filename* | *Homepage* |
 |----------|----------|----------|
+| C | `distancecalc.h` `distancecalc.c` | <coudldn't find> |
 | C++ | `distancecalc.h` `distancecalc.cpp` | <couldn't find> |
 | Crystal | `distanceCalc.cr` | https://crystal-lang.org/ |
 | Gravity | `distancecalc.gravity` | https://gravity-lang.org/ |
