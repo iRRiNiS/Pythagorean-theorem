@@ -1,5 +1,5 @@
 # Pythagorean-theorem
-Distance calculators.
+Distance calculators in multiple programming languages.
 
 By default, just running the code from any of these languages should print the distance between `(1.0, 2.0, 3.0)` and `(4.0, 5.0, 6.0)`, which is about `5.196`.
 
@@ -28,4 +28,4 @@ If you're adding a language yourself, make sure that:
 | Ruby | `distance_calc.rb` | https://ruby-lang.org/ |
 | Rust | `distance_calc.rs` | https://rust-lang.org/ |
 
-*Language count: 14*
+*Language count: 15*
