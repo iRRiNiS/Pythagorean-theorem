@@ -22,6 +22,7 @@ In case you want a language in here, but can't code it yourself, make an issue w
 | Haxe | `DistanceCalc.hx` | https://haxe.org/ | - |
 | Java | `DistanceCalc.java` | https://java.com/ | - |
 | JavaScript | `distanceCalc.js` | - | - |
+| Kotlin | `DistanceCalc.kt` | https://kotlinlang.org/ | - |
 | Lily | `distance_calc.lily` | https://lily-lang.org/ | - |
 | Lua | `discord_calc.lua` | https://lua.org/ | - |
 | PHP | `distancecalc.php` | https://php.net/ | - |
@@ -30,4 +31,4 @@ In case you want a language in here, but can't code it yourself, make an issue w
 | Rust | `distance_calc.rs` | https://rust-lang.org/ | - |
 | Visual Basic .NET | `DistanceCalc.vb` | https://dotnet.microsoft.com/ | - |
 
-*Language count: 16*
+*Language count: 17*
