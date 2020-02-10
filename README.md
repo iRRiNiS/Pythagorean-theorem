@@ -11,22 +11,22 @@ In case you want a language in here, but can't code it yourself, make an issue w
 
 ## Language list
 
-| *Language* | *Filename* | *Homepage (if any)* |
-|----------|----------|----------|
-| C | `distancecalc.h` `distancecalc.c` | - |
-| C# | `DistanceCalc.cs` | - |
-| C++ | `distancecalc.h` `distancecalc.cpp` | - |
-| Crystal | `distanceCalc.cr` | https://crystal-lang.org/ |
-| Go | `distancecalc.go` | https://golang.org/ |
-| Gravity | `distancecalc.gravity` | https://gravity-lang.org/ |
-| Haxe | `DistanceCalc.hx` | https://haxe.org/ |
-| Java | `DistanceCalc.java` | https://java.com/ |
-| JavaScript | `distanceCalc.js` | - |
-| Lily | `distance_calc.lily` | https://lily-lang.org/ |
-| Lua | `discord_calc.lua` | https://lua.org/ |
-| PHP | `distancecalc.php` | https://php.net/ |
-| Python | `distance_calc.py` | https://python.org/ |
-| Ruby | `distance_calc.rb` | https://ruby-lang.org/ |
-| Rust | `distance_calc.rs` | https://rust-lang.org/ |
+| *Language* | *Filename* | *Homepage (if any)* | *Credits (if any)* |
+|----------|----------|----------|----------|
+| C | `distancecalc.h` `distancecalc.c` | - | - |
+| C# | `DistanceCalc.cs` | - | [@iRRiNiS](https://github.com/iRRiNiS) |
+| C++ | `distancecalc.h` `distancecalc.cpp` | - | - |
+| Crystal | `distanceCalc.cr` | https://crystal-lang.org/ | - |
+| Go | `distancecalc.go` | https://golang.org/ | - |
+| Gravity | `distancecalc.gravity` | https://gravity-lang.org/ | - |
+| Haxe | `DistanceCalc.hx` | https://haxe.org/ | - |
+| Java | `DistanceCalc.java` | https://java.com/ | - |
+| JavaScript | `distanceCalc.js` | - | - |
+| Lily | `distance_calc.lily` | https://lily-lang.org/ | - |
+| Lua | `discord_calc.lua` | https://lua.org/ | - |
+| PHP | `distancecalc.php` | https://php.net/ | - |
+| Python | `distance_calc.py` | https://python.org/ | - |
+| Ruby | `distance_calc.rb` | https://ruby-lang.org/ | - |
+| Rust | `distance_calc.rs` | https://rust-lang.org/ | - |
 
 *Language count: 15*
