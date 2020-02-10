@@ -13,6 +13,7 @@ If you're adding a language yourself, make sure that:
 | *Language* | *Filename* | *Homepage (if any)* |
 |----------|----------|----------|
 | C | `distancecalc.h` `distancecalc.c` | - |
+| C# | `DistanceCalc.cs` | - |
 | C++ | `distancecalc.h` `distancecalc.cpp` | - |
 | Crystal | `distanceCalc.cr` | https://crystal-lang.org/ |
 | Go | `distancecalc.go` | https://golang.org/ |
