@@ -17,6 +17,7 @@ In case you want a language in here, but can't code it yourself, make an issue w
 | C# | `DistanceCalc.cs` | https://dotnet.microsoft.com/ | [@iRRiNiS](https://github.com/iRRiNiS) |
 | C++ | `distancecalc.h` `distancecalc.cpp` | - | - |
 | Crystal | `distanceCalc.cr` | https://crystal-lang.org/ | - |
+| Fortran | `DistanceCalc.f95` | - | [@iRRiNiS](https://github.com/iRRiNiS) |
 | Go | `distancecalc.go` | https://golang.org/ | - |
 | Gravity | `distancecalc.gravity` | https://gravity-lang.org/ | - |
 | Haxe | `DistanceCalc.hx` | https://haxe.org/ | - |
@@ -31,4 +32,4 @@ In case you want a language in here, but can't code it yourself, make an issue w
 | Rust | `distance_calc.rs` | https://rust-lang.org/ | - |
 | Visual Basic .NET | `DistanceCalc.vb` | https://dotnet.microsoft.com/ | - |
 
-*Language count: 17*
+*Language count: 18*
